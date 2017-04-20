@@ -20,3 +20,20 @@ ___
 Lets check if heaters stuff is linked up
 
 ##### Christians notes [CPTs notes](https://github.com/cptcptcptcptcptcptcptcptcptcptcptcptcpt/notes)
+
+
+
+
+
+#### Heathers notes that still need to be changed to markdown style wise
+My name is Heather and these are my notes today is April 17th
+
+req.body
+!!!!!! LOOK INTO THIS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
+'JavaScript dot notation to access properties of the JSON object'
+
+!!!!!! READ EXPRESS DOCS
+http://expressjs.com/en/4x/api.html
+
+why are knex.js and knexfile.js two separate files?
