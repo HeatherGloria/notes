@@ -5,7 +5,7 @@
 
 ##### Learn CLI
  CLI is a program that runs shell scripts and allows access to your computer without needing to click through a GUI(graphical user interface) _AKA_ your finder
- ![alt text](/Users/christiantaggart/Desktop/NOTES/Screen Shot 2017-04-20 at 9.50.20 AM.png)
+ ![alt text](Screen Shot 2017-04-20 at 9.50.20 AM.png)
  - ##### The following are all names for your terminal
   - CLI (acronym for command line)
   - Terminal
@@ -18,29 +18,4 @@ ___
 ##### Create a folder on your /desktop named "New Code Notes" Using your CLI (look @ in links above for  'File Management')
 ___
 
-
-
-
-
-
-
-
-
 ##### Christians notes [CPTs notes](https://github.com/cptcptcptcptcptcptcptcptcptcptcptcptcpt/notes)
-
-
-
-
-
-#### Heathers notes that still need to be changed to markdown style wise
-My name is Heather and these are my notes today is April 17th
-
-req.body
-!!!!!! LOOK INTO THIS
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
-'JavaScript dot notation to access properties of the JSON object'
-
-!!!!!! READ EXPRESS DOCS
-http://expressjs.com/en/4x/api.html
-
-why are knex.js and knexfile.js two separate files?
