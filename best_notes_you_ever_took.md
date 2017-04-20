@@ -16,7 +16,6 @@
 
 Read either of these (click both and find which one is easier for you to understand) )[Link to first one](https://gist.github.com/poopsplat/7195274) [Link to second one ](https://github.com/0nn0/terminal-mac-cheatsheet)
 ___
-<<<<<<< HEAD
 ### ... In progress
 ___
 
