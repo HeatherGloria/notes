@@ -19,10 +19,4 @@ ___
 
 
 
-
-
-
-
-
-
 ##### Christians notes [CPTs notes](https://github.com/cptcptcptcptcptcptcptcptcptcptcptcptcpt/notes)
