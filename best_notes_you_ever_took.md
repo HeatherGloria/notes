@@ -15,7 +15,5 @@
 Read either of these (click both and find which one is easier for you to understand) )[One](https://gist.github.com/poopsplat/7195274) [Two ](https://github.com/0nn0/terminal-mac-cheatsheet)
 ___
 
-##### Create a folder on your /desktop named "New Code Notes" Using your CLI (look @ in links above for  'File Management')
-___
 
 ##### Christians notes [CPTs notes](https://github.com/cptcptcptcptcptcptcptcptcptcptcptcptcpt/notes)
