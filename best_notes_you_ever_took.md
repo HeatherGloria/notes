@@ -5,7 +5,7 @@
 
 ##### Learn CLI
  CLI is a program that runs shell scripts and allows access to your computer without needing to click through a GUI(graphical user interface) _AKA_ your finder
-<<<<<<< HEAD
+
  ![alt text](http://i.imgur.com/79jW7Yk.png)
 =======
  - ##### The following are all names for your terminal
