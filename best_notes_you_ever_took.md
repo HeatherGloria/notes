@@ -5,7 +5,11 @@
 
 ##### Learn CLI
  CLI is a program that runs shell scripts and allows access to your computer without needing to click through a GUI(graphical user interface) _AKA_ your finder
+<<<<<<< HEAD
  ![alt text](http://i.imgur.com/79jW7Yk.png)
+=======
+ ![alt text](Screen Shot 2017-04-20 at 9.50.20 AM.png)
+>>>>>>> b0f27d6ef25227b5b3db3be755f1885cb6077bec
  - ##### The following are all names for your terminal
   - CLI (acronym for command line)
   - Terminal
@@ -14,26 +18,10 @@
 
 Read either of these (click both and find which one is easier for you to understand) )[Link to first one](https://gist.github.com/poopsplat/7195274) [Link to second one ](https://github.com/0nn0/terminal-mac-cheatsheet)
 ___
+<<<<<<< HEAD
 ### ... In progress
 ___
 
 Lets check if heaters stuff is linked up
 
 ##### Christians notes [CPTs notes](https://github.com/cptcptcptcptcptcptcptcptcptcptcptcptcpt/notes)
-
-
-
-
-
-#### Heathers notes that still need to be changed to markdown style wise
-My name is Heather and these are my notes today is April 17th
-
-req.body
-!!!!!! LOOK INTO THIS
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
-'JavaScript dot notation to access properties of the JSON object'
-
-!!!!!! READ EXPRESS DOCS
-http://expressjs.com/en/4x/api.html
-
-why are knex.js and knexfile.js two separate files?
