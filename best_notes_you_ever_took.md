@@ -8,8 +8,6 @@
 <<<<<<< HEAD
  ![alt text](http://i.imgur.com/79jW7Yk.png)
 =======
- ![alt text](Screen Shot 2017-04-20 at 9.50.20 AM.png)
->>>>>>> b0f27d6ef25227b5b3db3be755f1885cb6077bec
  - ##### The following are all names for your terminal
   - CLI (acronym for command line)
   - Terminal
